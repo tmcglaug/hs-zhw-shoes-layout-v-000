@@ -106,7 +106,7 @@ box-sizing: border-box;
   height: 0;
   line-height: 0;
 
-  
+
 }
 
 input.verif_box {
@@ -144,7 +144,7 @@ width: 32%;
 .col-2 {
 float: left;
 width: 49%;
-
+height:inherit;
 }
 
 .milk_text {
