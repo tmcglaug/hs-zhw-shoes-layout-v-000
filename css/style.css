@@ -91,6 +91,11 @@ input[type="submit"]:hover {
 	background: #555;
 }
 
+* {
+box-sizing: border-box;
+  
+}
+
 input.verif_box {
 	display: inline-block;
 	width: 80%;
