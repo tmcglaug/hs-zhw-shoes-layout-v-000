@@ -93,7 +93,8 @@ input[type="submit"]:hover {
 
 * {
 box-sizing: border-box;
-  
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
 }
 
 input.verif_box {
