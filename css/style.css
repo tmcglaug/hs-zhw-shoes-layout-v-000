@@ -240,10 +240,16 @@ width: 49%;
 
 }
 
+.col2 {
+
+  float: left;
+  width: 49%;
+}
+
 .col-3 {
   float: left;
   width: 32%;
-  
+
 }
 
 	a.fbook, a.twitt, a.gplus {
