@@ -115,6 +115,18 @@ iframe {
   float: left;
 }
 
+.col-1 {
+float: left;
+width: 32%; 
+  
+}
+
+.col-2 {
+float: left;
+width: 49%; 
+  
+}
+
 .milk_text {
 	font: bold 42px 'Elsie Swash Caps', cursive;
 	color: white;
