@@ -199,6 +199,7 @@ width: 49%;
 	/********** Logo **********/
 
 	#logo {
+    width: 100%;
 		padding: 85px 0 25px;
 		/* gradient */
 		background: rgb(229,229,229); /* Old browsers */
