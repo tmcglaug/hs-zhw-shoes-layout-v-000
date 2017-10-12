@@ -97,6 +97,18 @@ box-sizing: border-box;
 -webkit-box-sizing: border-box;
 }
 
+.clearfix:after {
+
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+
+  
+}
+
 input.verif_box {
 	display: inline-block;
 	width: 80%;
